@@ -1,5 +1,10 @@
 package com.codercocoon.spring.ioc.xml;
 
+/**
+ * 
+ * @author contact@codercocoon.com
+ *
+ */
 public interface UserDao {
 
 	User find(int userId);

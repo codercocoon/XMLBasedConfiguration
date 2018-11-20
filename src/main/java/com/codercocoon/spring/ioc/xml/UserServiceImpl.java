@@ -1,5 +1,10 @@
 package com.codercocoon.spring.ioc.xml;
 
+/**
+ * 
+ * @author contact@codercocoon.com
+ *
+ */
 public class UserServiceImpl implements UserService {
 	private UserDao userDao;
 

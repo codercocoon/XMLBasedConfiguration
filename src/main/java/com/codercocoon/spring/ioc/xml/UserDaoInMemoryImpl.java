@@ -3,6 +3,11 @@ package com.codercocoon.spring.ioc.xml;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 
+ * @author contact@codercocoon.com
+ *
+ */
 public class UserDaoInMemoryImpl implements UserDao {
 
 	private Map<Integer, User> usersMap = new HashMap<>();

@@ -2,6 +2,11 @@ package com.codercocoon.spring.ioc.xml;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * 
+ * @author contact@codercocoon.com
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {

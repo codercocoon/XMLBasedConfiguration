@@ -1,5 +1,5 @@
 # springXMLBasedConfiguration
-Example presents the basic concept of using in Spring the XML based configuration.
+This example presents the basic concept of using in Spring the XML based configuration.
 
 The technologies used are :
  - Spring 4.3.4

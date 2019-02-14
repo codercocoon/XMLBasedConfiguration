@@ -1,8 +1,8 @@
-package com.codercocoon.spring.ioc.xml;
+package javaspringexamples.spring.ioc.configuration.xml;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public interface UserService {

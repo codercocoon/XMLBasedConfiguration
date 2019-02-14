@@ -1,11 +1,11 @@
-package com.codercocoon.spring.ioc.configuration.xml;
+package javaspringexamples.spring.ioc.configuration.xml;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class UserDaoInMemoryImpl implements UserDao {
